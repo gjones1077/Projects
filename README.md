@@ -4,6 +4,6 @@ Here you will find the projects I have been working on or expanding on from scho
 -------------------------------------------------------------------------------------
 
 Table of Contents
-1. Supermarket server with Node.js and Html
+1. Game of Life with Cuda
 2. Video Effects with Cuda
-3. Game of Life with Cuda
+3. Supermarket server with Node.js and Html
